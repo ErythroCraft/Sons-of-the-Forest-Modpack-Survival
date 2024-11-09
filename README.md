@@ -65,7 +65,7 @@ Mods list:
 
 Extras - This is a part to create and edit mods
 
-
+Read [Kiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki)
 
 
 Good play
