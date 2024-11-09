@@ -1,0 +1,282 @@
+————————————————————————————————————————————— ITEMS —————————————————————————————————————————————
+
+Name: 3dPrintedArrow                   | ID: 618   | Type: Droppable, Ammo
+Name: 3dPrintedArrowHeads              | ID: 559   | Type: Droppable
+Name: 3dPrintedFlask                   | ID: 426   | Type: Equippable, Edible, Droppable
+Name: 3dPrintedFlowerPot               | ID: 561   | Type: Droppable
+Name: 3dPrintedGrapplingHook           | ID: 560   | Type: CraftingMaterial, Droppable
+Name: 3dPrintedKnife                   | ID: 427   | Type: CraftingMaterial, Weapon
+Name: 3dPrintedSled                    | ID: 428   | Type: Equippable, CraftingMaterial, Droppable
+Name: 3dPrintedUnderwaterMask          | ID: 429   | Type: Equippable, Droppable
+Name: 3dPrinterResin                   | ID: 390   | Type: Droppable
+Name: 9mmAmmo                          | ID: 362   | Type: Droppable, Ammo
+Name: AirCanister                      | ID: 469   | Type: Edible, Droppable
+Name: Airgun                           | ID: 357   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: AirgunScope                      | ID: 470   | Type: Droppable, Extension
+Name: AlbumCover                       | ID: 467   | Type: Equippable
+Name: AloeVera                         | ID: 451   | Type: CraftingMaterial, Edible, Droppable
+Name: AloeVeraSeed                     | ID: 596   | Type: Droppable
+Name: ArrowleafBalsamroot              | ID: 454   | Type: CraftingMaterial, Edible, Droppable
+Name: ArrowleafSeed                    | ID: 597   | Type: Droppable
+Name: Backpack                         | ID: 402   | Type: Equippable, Clothing
+Name: Batteries                        | ID: 527   | Type: CraftingMaterial, Droppable
+Name: BatteryCharger                   | ID: 458   | Type: Droppable
+Name: BatteryPack                      | ID: 460   | Type: Droppable
+Name: Binoculars                       | ID: 341   | Type: Equippable, Droppable
+Name: Blackberries                     | ID: 595   | Type: Edible, Droppable
+Name: BlackberrySeed                   | ID: 598   | Type: Droppable
+Name: Blueberries                      | ID: 445   | Type: Edible, Droppable
+Name: BlueberrySeed                    | ID: 599   | Type: Droppable
+Name: BlueprintBirdHouse               | ID: 581   | Type: Equippable
+Name: BlueprintBoneChair               | ID: 579   | Type: Equippable
+Name: BlueprintBoneChandelier          | ID: 588   | Type: Equippable
+Name: BlueprintBook                    | ID: 552   | Type: Equippable
+Name: BlueprintDryingRack              | ID: 530   | Type: StructureBlueprint
+Name: BlueprintFishTrap                | ID: 582   | Type: Equippable
+Name: BlueprintHangingSkullLight       | ID: 625   | Type: Equippable
+Name: BlueprintMannequin               | ID: 584   | Type: Equippable
+Name: BlueprintPlanterFloor            | ID: 587   | Type: Equippable
+Name: BlueprintPlanterWall             | ID: 586   | Type: Equippable
+Name: BlueprintRainCatcher             | ID: 629   | Type: Equippable
+Name: BlueprintRockPath                | ID: 622   | Type: Equippable
+Name: BlueprintScarecrow               | ID: 585   | Type: Equippable
+Name: BlueprintShelf                   | ID: 621   | Type: Equippable
+Name: BlueprintSmallLogCabin           | ID: 591   | Type: Equippable
+Name: BlueprintSpringTrap              | ID: 632   | Type: Equippable
+Name: BlueprintStickBed                | ID: 532   | Type: StructureBlueprint
+Name: BlueprintStickChair              | ID: 531   | Type: StructureBlueprint
+Name: BlueprintStickLadder             | ID: 580   | Type: Equippable
+Name: BlueprintStorageBones            | ID: 608   | Type: Equippable
+Name: BlueprintStorageBox              | ID: 583   | Type: Equippable
+Name: BlueprintStorageLogs             | ID: 609   | Type: Equippable
+Name: BlueprintStorageRocks            | ID: 607   | Type: Equippable
+Name: BlueprintStorageSticks           | ID: 610   | Type: Equippable
+Name: BlueprintTable                   | ID: 620   | Type: Equippable
+Name: BlueprintTrapBoneMaker           | ID: 549   | Type: StructureBlueprint
+Name: BlueprintTrapFlySwatter          | ID: 550   | Type: StructureBlueprint
+Name: BlueprintTrapSmallAnimalCatcher  | ID: 551   | Type: StructureBlueprint
+Name: BlueprintWallShelf               | ID: 623   | Type: Equippable
+Name: BlueprintWallTorch               | ID: 624   | Type: Equippable
+Name: BlueprintWeaponRack              | ID: 533   | Type: StructureBlueprint
+Name: BlueTShirt                       | ID: 488   | Type: Clothing
+Name: Bone                             | ID: 405   | Type: Equippable, CraftingMaterial, Droppable, Weapon
+Name: BoneArmour                       | ID: 494   | Type: Droppable, Craftable, Armor
+Name: BuckshotAmmo                     | ID: 364   | Type: Droppable, Ammo
+Name: BunkerPamphlet                   | ID: 509   | Type: Equippable
+Name: C4Brick                          | ID: 420   | Type: CraftingMaterial, Droppable
+Name: CannedFood                       | ID: 434   | Type: CraftingMaterial, Droppable
+Name: CanOpener                        | ID: 432   | Type: CraftingMaterial
+Name: CatFood                          | ID: 464   | Type: Edible, Droppable, Craftable
+Name: CerealBox                        | ID: 425   | Type: Edible, Droppable
+Name: Chicory                          | ID: 465   | Type: CraftingMaterial, Edible, Droppable
+Name: ChicorySeed                      | ID: 605   | Type: Droppable
+Name: CircuitBoard                     | ID: 416   | Type: CraftingMaterial, Droppable
+Name: ClimbingAxe                      | ID: 478   | Type: Equippable, Droppable, Weapon
+Name: Cloth                            | ID: 415   | Type: Equippable, CraftingMaterial, Droppable
+Name: Coins                            | ID: 502   | Type: CraftingMaterial, Droppable
+Name: CombatKnife                      | ID: 380   | Type: Equippable, CraftingMaterial, Weapon
+Name: CompactPistol                    | ID: 355   | Type: Equippable, CraftingMaterial, Droppable, RangedWeapon, Craftable, Weapon
+Name: CompactPistolRail                | ID: 376   | Type: CraftingMaterial, Droppable, Craftable, Extension
+Name: ContactSpringTrigger             | ID: 514   | Type: Equippable, Droppable, Craftable
+Name: ContactTrigger                   | ID: 511   | Type: Equippable, Droppable, Craftable
+Name: CookingPot                       | ID: 517   | Type: Edible, Droppable
+Name: CraftedArrow                     | ID: 507   | Type: Droppable, Ammo, Craftable
+Name: CraftedBow                       | ID: 443   | Type: Equippable, Droppable, RangedWeapon, Craftable, Weapon
+Name: CraftedClub                      | ID: 477   | Type: Equippable, Droppable, Craftable, Weapon
+Name: CraftedSpear                     | ID: 474   | Type: Equippable, Droppable, Ammo, Projectile, RangedWeapon, Craftable, Weapon
+Name: CreepyArmour                     | ID: 593   | Type: Droppable, Craftable, Armor
+Name: CreepySkin                       | ID: 592   | Type: Droppable
+Name: Cross                            | ID: 468   | Type: Equippable, Droppable
+Name: Crossbow                         | ID: 365   | Type: Equippable, CraftingMaterial, Droppable, RangedWeapon, Craftable, Weapon
+Name: CrossbowAmmoBolt                 | ID: 368   | Type: Droppable, Ammo
+Name: CrossbowQuiverMod                | ID: 384   | Type: Droppable, Extension
+Name: CultPamphlet                     | ID: 633   | Type: Equippable
+Name: DeerHide                         | ID: 472   | Type: CraftingMaterial, Droppable
+Name: DeerHideArmour                   | ID: 519   | Type: Droppable, Craftable, Armor
+Name: DevilsClub                       | ID: 449   | Type: CraftingMaterial, Edible, Droppable
+Name: DevilsClubSeed                   | ID: 600   | Type: Droppable
+Name: DuctTape                         | ID: 419   | Type: CraftingMaterial, Droppable
+Name: EmailPrintoutAstrologyA          | ID: 539   | Type: Equippable
+Name: EmailPrintoutAstrologyB          | ID: 540   | Type: Equippable
+Name: EmailPrintoutAstrologyC          | ID: 541   | Type: Equippable
+Name: EmailPrintoutBalletA             | ID: 545   | Type: Equippable
+Name: EmailPrintoutCaveLighting        | ID: 521   | Type: Equippable
+Name: EmailPrintoutGolfA               | ID: 534   | Type: Equippable
+Name: EmailPrintoutGolfB               | ID: 535   | Type: Equippable
+Name: EmailPrintoutGolfC               | ID: 536   | Type: Equippable
+Name: EmailPrintoutGolfD               | ID: 537   | Type: Equippable
+Name: EmailPrintoutGovernmentA         | ID: 614   | Type: Equippable
+Name: EmailPrintoutGovernmentB         | ID: 615   | Type: Equippable
+Name: EmailPrintoutGovernmentC         | ID: 616   | Type: Equippable
+Name: EmailPrintoutMrPuffyFinancial    | ID: 528   | Type: Equippable
+Name: EmailPrintoutMrPuffyWill         | ID: 526   | Type: Equippable
+Name: EmailPrintoutPaintingA           | ID: 538   | Type: Equippable
+Name: EmailPrintoutPoliticianA         | ID: 542   | Type: Equippable
+Name: EmailPrintoutPoliticianB         | ID: 543   | Type: Equippable
+Name: EmailPrintoutPoliticianC         | ID: 544   | Type: Equippable
+Name: EmailPrintoutSqueakyShoesA       | ID: 546   | Type: Equippable
+Name: EmailPrintoutSqueakyShoesB       | ID: 547   | Type: Equippable
+Name: EmailPrintoutSqueakyShoesC       | ID: 548   | Type: Equippable
+Name: EmergencyPack                    | ID: 483   | Type: CraftingMaterial
+Name: EnergyBar                        | ID: 441   | Type: Edible, Droppable
+Name: EnergyDrink                      | ID: 439   | Type: Edible, Droppable
+Name: EnergyMix                        | ID: 461   | Type: Edible, Droppable, Craftable
+Name: EnergyMixPlus                    | ID: 462   | Type: Edible, Droppable, Craftable
+Name: Feather                          | ID: 479   | Type: CraftingMaterial, Droppable
+Name: FireAxe                          | ID: 431   | Type: Equippable, Droppable, Weapon, Axe
+Name: Fireweed                         | ID: 453   | Type: CraftingMaterial, Edible, Droppable
+Name: FireweedSeed                     | ID: 601   | Type: Droppable
+Name: Fish                             | ID: 436   | Type: Edible, Droppable
+Name: Flare                            | ID: 440   | Type: Equippable, Droppable, Ammo, RangedWeapon, Weapon
+Name: Flashlight                       | ID: 471   | Type: Equippable, CraftingMaterial, Droppable, Craftable
+Name: FlashlightMod                    | ID: 378   | Type: CraftingMaterial, Droppable, Craftable, Extension
+Name: Flask                            | ID: 475   | Type: Edible, Droppable
+Name: Flippers                         | ID: 463   | Type: 0
+Name: FlyAmanitaMushroom               | ID: 400   | Type: Edible, Droppable
+Name: FoodCubeBrain                    | ID: 569   | Type: Edible, Droppable
+Name: FoodCubeSteak                    | ID: 570   | Type: Edible, Droppable
+Name: FoodCubeSteakAndBacon            | ID: 571   | Type: Edible, Droppable
+Name: FoodTray                         | ID: 497   | Type: Droppable
+Name: FoodTrayFilled                   | ID: 512   | Type: Droppable
+Name: GoldenArmour                     | ID: 572   | Type: Clothing, Droppable
+Name: GoldMask                         | ID: 435   | Type: Equippable, Droppable
+Name: GolfBall                         | ID: 524   | Type: Equippable, Droppable, Ammo, RangedWeapon, Weapon
+Name: GolfPutter                       | ID: 525   | Type: Equippable, Droppable, Weapon
+Name: GPSLocator                       | ID: 529   | Type: Equippable, Droppable
+Name: GPSTracker                       | ID: 412   | Type: Equippable, Craftable
+Name: GrabBag                          | ID: 351   | Type: Equippable
+Name: GRABSLaserPointer                | ID: 498   | Type: Craftable
+Name: Grenade                          | ID: 381   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: GrenadeAmmo                      | ID: 382   | Type: Ammo
+Name: GuaranaBerries                   | ID: 594   | Type: Edible, Droppable
+Name: GuaranaSeed                      | ID: 602   | Type: Droppable
+Name: Guitar                           | ID: 340   | Type: Equippable, Droppable, Weapon
+Name: HalfLog                          | ID: 408   | Type: Equippable, Droppable
+Name: HalfLogPlank                     | ID: 577   | Type: Equippable, Droppable
+Name: HangGlider                       | ID: 626   | Type: Equippable, Droppable
+Name: HealthMix                        | ID: 455   | Type: Edible, Droppable, Craftable
+Name: HealthMixPlus                    | ID: 456   | Type: Edible, Droppable, Craftable
+Name: HolovilleNoticeA                 | ID: 562   | Type: Equippable
+Name: HolovilleNoticeB                 | ID: 563   | Type: Equippable
+Name: HolovilleNoticeC                 | ID: 564   | Type: Equippable
+Name: HolovilleNoticeD                 | ID: 565   | Type: Equippable
+Name: Hoodie                           | ID: 490   | Type: Clothing, Droppable
+Name: Horsetail                        | ID: 450   | Type: CraftingMaterial, Edible, Droppable
+Name: HorsetailSeed                    | ID: 603   | Type: Droppable
+Name: HydnumRepandumMushroom           | ID: 399   | Type: Edible, Droppable
+Name: Katana                           | ID: 367   | Type: Equippable, Droppable, Weapon
+Name: KeyCardGuest                     | ID: 567   | Type: Equippable
+Name: KeyCardMaintenance               | ID: 566   | Type: Equippable
+Name: KeyCardVIP                       | ID: 568   | Type: Equippable
+Name: KingOysterMushroom               | ID: 398   | Type: Edible, Droppable
+Name: SmallRock                        | ID: 630   | Type: Equippable, CraftingMaterial, Droppable, Ammo, RangedWeapon, Weapon
+Name: LaserMeasureTool                 | ID: 505   | Type: Equippable, Craftable
+Name: LaserSightMod                    | ID: 375   | Type: CraftingMaterial, Droppable, Craftable, Extension
+Name: Leaf                             | ID: 484   | Type: CraftingMaterial, Droppable
+Name: LeafArmour                       | ID: 473   | Type: Droppable, Craftable, Armor
+Name: LeatherJacket                    | ID: 493   | Type: Clothing, Droppable
+Name: Log_Legacy                       | ID: 78    | Type: Equippable, Droppable
+Name: LogPlank                         | ID: 395   | Type: Equippable, Droppable
+Name: LootPouch                        | ID: 508   | Type: CraftingMaterial, Droppable
+Name: Machete2                         | ID: 359   | Type: Equippable, Droppable, Weapon
+Name: Meat                             | ID: 433   | Type: Edible, Droppable
+Name: ModernAxe                        | ID: 356   | Type: Equippable, Droppable, Craftable, Weapon, Axe
+Name: Molotov                          | ID: 388   | Type: Equippable, Droppable, RangedWeapon, Craftable, Weapon
+Name: MolotovAmmo                      | ID: 389   | Type: Droppable, Ammo
+Name: Money                            | ID: 496   | Type: Droppable, Craftable
+Name: MrePack                          | ID: 438   | Type: Edible, Droppable
+Name: MrPufftonTableCard               | ID: 627   | Type: Equippable
+Name: MrsPufftonTableCard              | ID: 628   | Type: Equippable
+Name: NewspaperCutout                  | ID: 612   | Type: Equippable
+Name: NewspaperCutoutOutbid            | ID: 613   | Type: Equippable
+Name: NightVisionGoggles               | ID: 354   | Type: Droppable
+Name: NovelA                           | ID: 423   | Type: Equippable
+Name: NovelB                           | ID: 424   | Type: Equippable
+Name: NovelC                           | ID: 574   | Type: Equippable
+Name: NovelD                           | ID: 575   | Type: Equippable
+Name: NovelF                           | ID: 631   | Type: Equippable
+Name: NumbersPrintout                  | ID: 611   | Type: Equippable
+Name: OldJacket                        | ID: 491   | Type: Clothing, Droppable
+Name: Oyster                           | ID: 466   | Type: Edible, Droppable
+Name: PaperTarget                      | ID: 518   | Type: Equippable, Droppable
+Name: Pills                            | ID: 437   | Type: Edible, Droppable
+Name: PistolAmmoBox                    | ID: 370   | Type: Droppable
+Name: PistolSuppressor                 | ID: 374   | Type: CraftingMaterial, Droppable, Craftable, Extension
+Name: PlasmaLighter                    | ID: 413   | Type: Equippable, Craftable
+Name: PuffyJacket                      | ID: 500   | Type: Clothing, Droppable
+Name: QuarterLog                       | ID: 406   | Type: Equippable, Droppable
+Name: QuarterLogPlank                  | ID: 576   | Type: Equippable, Droppable
+Name: Radio                            | ID: 590   | Type: Equippable, Droppable
+Name: RamenNoodles                     | ID: 421   | Type: Edible, Droppable
+Name: Rebreather                       | ID: 444   | Type: Equippable, Clothing, Droppable, Craftable
+Name: RedMask                          | ID: 391   | Type: Equippable, Droppable
+Name: RepairTool                       | ID: 422   | Type: Equippable, Craftable, Weapon
+Name: Revolver                         | ID: 386   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: Rifle                            | ID: 361   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: RifleAmmo                        | ID: 387   | Type: Droppable, Ammo
+Name: RifleRailMod                     | ID: 383   | Type: Droppable, Craftable, Extension
+Name: Rock                             | ID: 393   | Type: Equippable, CraftingMaterial, Droppable, Weapon
+Name: Rope                             | ID: 403   | Type: Equippable, CraftingMaterial, Droppable
+Name: RopeGun                          | ID: 522   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: Salmonberries                    | ID: 447   | Type: Edible, Droppable
+Name: SalmonberrySeed                  | ID: 604   | Type: Droppable
+Name: ScopeMod                         | ID: 377   | Type: CraftingMaterial, Droppable, Craftable, Extension
+Name: SeveredArm                       | ID: 480   | Type: Equippable, Edible, Droppable, Ammo, Projectile, RangedWeapon, Craftable, Weapon
+Name: SeveredHead                      | ID: 482   | Type: Equippable, Droppable
+Name: SeveredLeg                       | ID: 481   | Type: Equippable, Edible, Droppable, Ammo, Projectile, RangedWeapon, Weapon
+Name: ShiitakeMushroom                 | ID: 397   | Type: Edible, Droppable
+Name: ShotgunAmmoBoxBuckshot           | ID: 371   | Type: Droppable
+Name: ShotgunAmmoBoxSlug               | ID: 372   | Type: Droppable
+Name: ShotgunPumpAction                | ID: 358   | Type: Equippable, CraftingMaterial, Droppable, RangedWeapon, Craftable, Weapon
+Name: ShotgunRail                      | ID: 346   | Type: CraftingMaterial, Droppable, Craftable, Extension
+Name: Shovel                           | ID: 485   | Type: Equippable, Droppable, Weapon
+Name: SilkPyjamas                      | ID: 487   | Type: Clothing, Droppable
+Name: Skull                            | ID: 430   | Type: Equippable, CraftingMaterial, Droppable
+Name: SleepingBag                      | ID: 573   | Type: Equippable, Droppable
+Name: Slingshot                        | ID: 459   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: SlugAmmo                         | ID: 363   | Type: Droppable, Ammo
+Name: SmallRock                        | ID: 476   | Type: Equippable, CraftingMaterial, Droppable, Ammo, RangedWeapon, Weapon
+Name: Snowberries                      | ID: 448   | Type: Edible, Droppable
+Name: Spring                           | ID: 513   | Type: Droppable
+Name: Stick                            | ID: 392   | Type: Equippable, CraftingMaterial, Droppable, Weapon
+Name: StockPricePrintout               | ID: 617   | Type: Equippable
+Name: Structure Element                | ID: 520   | Type: Equippable, Droppable
+Name: StunGun                          | ID: 353   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: StunGunAmmo                      | ID: 369   | Type: Droppable, Ammo
+Name: StunGunAmmoBox                   | ID: 457   | Type: Droppable
+Name: TacticalAxe                      | ID: 379   | Type: Equippable, Craftable, Weapon, Axe
+Name: TacticalBoots                    | ID: 501   | Type: Clothing, Droppable
+Name: TacticalBow                      | ID: 360   | Type: Equippable, Droppable, RangedWeapon, Weapon
+Name: TacticalBowAmmo                  | ID: 373   | Type: Droppable, Ammo
+Name: TacticalChainsaw                 | ID: 394   | Type: Equippable, CraftingMaterial, Droppable, Craftable, Weapon
+Name: TacticalJacket                   | ID: 495   | Type: Clothing, Droppable
+Name: TacticalPants                    | ID: 489   | Type: Clothing, Droppable
+Name: Tarp                             | ID: 504   | Type: Equippable, Droppable
+Name: TaserStick                       | ID: 396   | Type: Equippable, Droppable, Weapon
+Name: TechArmour                       | ID: 554   | Type: Droppable, Craftable, Armor
+Name: TechMesh                         | ID: 553   | Type: CraftingMaterial, Droppable
+Name: ThreeQuarterLog                  | ID: 409   | Type: Equippable, Droppable
+Name: ThreeQuarterLogPlank             | ID: 578   | Type: Equippable, Droppable
+Name: TimeBomb                         | ID: 417   | Type: Equippable, Droppable, Ammo, Projectile, RangedWeapon, Craftable, Weapon
+Name: Torch                            | ID: 503   | Type: Equippable, Droppable, Craftable, Weapon
+Name: TrackerDart                      | ID: 366   | Type: Droppable, Ammo
+Name: TurtleEgg                        | ID: 401   | Type: Edible, Droppable
+Name: TurtleShell                      | ID: 506   | Type: Equippable, Droppable
+Name: TutorialBook                     | ID: 589   | Type: Equippable, Craftable
+Name: TutorialPageBasicBuilding        | ID: 515   | Type: Equippable
+Name: TutorialPageTarpTent             | ID: 516   | Type: Equippable, Craftable
+Name: Tuxedo                           | ID: 492   | Type: Clothing, Droppable
+Name: Twinberries                      | ID: 446   | Type: Edible, Droppable
+Name: VirginiaCamoSuit                 | ID: 558   | Type: Clothing, Droppable
+Name: VirginiaDress                    | ID: 556   | Type: Clothing, Droppable
+Name: VirginiaLeatherSuit              | ID: 557   | Type: Clothing, Droppable
+Name: VirginiaSwimSuit                 | ID: 619   | Type: Clothing, Droppable
+Name: VirginiaTrackSuit                | ID: 555   | Type: Clothing, Droppable
+Name: VodkaBottle                      | ID: 414   | Type: CraftingMaterial, Droppable
+Name: WalkieTalkie                     | ID: 486   | Type: Equippable, Droppable
+Name: Wetsuit                          | ID: 499   | Type: Clothing, Droppable
+Name: Wire                             | ID: 418   | Type: CraftingMaterial, Droppable
+Name: Wristwatch                       | ID: 410   | Type: CraftingMaterial, Droppable
+Name: Yarro                            | ID: 452   | Type: CraftingMaterial, Edible, Droppable
+Name: YarroSeed                        | ID: 606   | Type: Droppable
+Name: ZiplineRope                      | ID: 523   | Type: Droppable, Ammo, Craftable
