@@ -65,12 +65,6 @@ Mods list:
 
 Extras - This is a part to create and edit mods
 
-- **NEW** [SOTFEdit](https://github.com/codengine/SOTFEdit) - By Codengine (Stefan Hueg)
-- [Unity Editor](https://github.com/sinai-dev/UnityExplorer#unity-editor) - By [Sinai](https://github.com/sinai-dev)
-
-- ~~[SOTF SavegameEditor](https://www.nexusmods.com/sonsoftheforest/mods/34?tab=description) - By Ausbrecher~~
-
-**Read the [WIKI](https://github.com/ErythroCraft/SonsOfTheForestModPack/wiki) for all instructions anout this modpack**
 
 
 
