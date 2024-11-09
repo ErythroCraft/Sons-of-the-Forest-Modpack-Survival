@@ -7,6 +7,9 @@ The modpack "Sons of the Forest 1.0" is current and also playable in the new ver
 Version 2.0 is a new edition and not compatible with BepInEx. 
 The difference to version 1.0 is the RedLoader and RedNodeEditor.
 
+Sons-of-the-Forest-Modpack-2.0 - Survival Mode was developed specifically for survival mode.
+Hardcore and Creative will follow.
+
 Compatibility version: latest
 
 Modlist:
