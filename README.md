@@ -48,27 +48,30 @@ Mods list:
 - No More Pesky Totems                  - [by tempbito](https://www.nexusmods.com/sonsoftheforest/mods/159)
 - Open Sesame                           - [by tempbito](https://sotf-mods.com/mods/tempbito/opensesame)
 - Perishable Shuffler                   - [by ](https://sotf-mods.com/mods/tempbito/perishable-shuffler)
-- Plane Mod                             - [by ]()
-- Planter Tweaks                        - [by ]()
-- Quicksave                             - [by ]()
-- Red Node Loader                       - [by ]()
-- Regen Mod                             - [by ]()
-- Relocator                             - [by ]()
-- Remove Max Cap                        - [by tempbito](https://sotf-mods.com/mods/tempbito/removemaxobjectcap)
+- Plane Mod                             - [by ImAxel](https://sotf-mods.com/mods/imaxel/plane-mod)
+- Planter Tweaks                        - [by tempbito](https://sotf-mods.com/mods/tempbito/plantertweaks)
+- Quicksave                             - [by sknthelisper](https://sotf-mods.com/mods/sknthelisper/quicksave)
+- Red Node Loader                       - [by ImAxel](https://sotf-mods.com/mods/imaxel/rednodeloader)
+- Regen Mod                             - [by ggmed](https://sotf-mods.com/mods/ggmed/regenmod)
+- Relocator                             - [by_ToniMacaroni](https://sotf-mods.com/mods/tonimacaroni/relocator)
+- Remove Max Object Cap                 - [by tempbito](https://sotf-mods.com/mods/tempbito/removemaxobjectcap)
 - Skeletal Chainsaw Engine              - [by RegiToXic](https://sotf-mods.com/mods/regitoxic/skeletal-chainsaw(alpha))
-- Smart Lights                          - [by ]()
-- Sons Hotbar                           - [by ]()
-- Sorter                                - [by ]()
-- Spoil Manager                         - [by ]()
-- Stack Mod                             - [by ]()
-- Structure Durability                  - [by ]()
-- Unstuck Buddy                         - [by ]()
-- Zippy                                 - [by ]()
+- Smart Lights                          - [by tempbito](https://sotf-mods.com/mods/tempbito/smart-lights)
+- Sons Hotbar                           - [by AEDEV](https://sotf-mods.com/mods/aedev/sonshotbar)
+- Sorter                                - [by ToniMacaroni](https://www.nexusmods.com/sonsoftheforest/mods/130)
+- Spoil Manager                         - [by tempbito](https://sotf-mods.com/mods/tempbito/spoilmanager)
+- Stack Mod                             - [by TerroDucky](https://www.nexusmods.com/sonsoftheforest/mods/118)
+- Structure Durability                  - [by tempbito](https://sotf-mods.com/mods/tempbito/structuredurability)
+- Unstuck Buddy                         - [by Franky](https://sotf-mods.com/mods/franky/unstuckbuddy)
+- Zippy                                 - [by ToniMacaroni](https://sotf-mods.com/?search=zippy)
 
 
 Extras - This is a part to create and edit mods
 
-Read [Wiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki)
+Instructions about mods and creating your own read the [Wiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki)
 
+Good luck better play SOTF
 
-Good play
+Futures:
+
+- comming soon (fast)
