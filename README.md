@@ -48,6 +48,7 @@ Mods list:
 - No More Pesky Totems                  - [by tempbito](https://www.nexusmods.com/sonsoftheforest/mods/159)
 - Open Sesame                           - [by tempbito](https://sotf-mods.com/mods/tempbito/opensesame)
 - Perishable Shuffler                   - [by ](https://sotf-mods.com/mods/tempbito/perishable-shuffler)
+- Place Structure Anywhere              - [by tempbito](https://sotf-mods.com/mods/tempbito/placestructureanywhere)
 - Plane Mod                             - [by ImAxel](https://sotf-mods.com/mods/imaxel/plane-mod)
 - Planter Tweaks                        - [by tempbito](https://sotf-mods.com/mods/tempbito/plantertweaks)
 - Quicksave                             - [by sknthelisper](https://sotf-mods.com/mods/sknthelisper/quicksave)
