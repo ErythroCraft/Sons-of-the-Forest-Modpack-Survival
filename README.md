@@ -19,7 +19,7 @@ Not all mods are supported by creators or publisher!
 Mods list:
 
 - Allow Build In Caves                  - [by GLaD0S](https://sotf-mods.com/mods/glad0s/enable-building-in-caves)
-- AmmoUi                                - [by ImAxel](https://sotf-mods.com/mods/imaxel/ammou)
+- AmmoUi                                - [by ImAxel](https://sotf-mods.com/mods/imaxel/ammoui)
 - Armor Tweeker                         - [by tempbito](https://sotf-mods.com/mods/tempbito/armortweeker)
 - Auto Equip Rebreather                 - [by tempbito](https://www.nexusmods.com/sonsoftheforest/mods/173)
 - Auto Hide Sons Hotbar                 - [by tempbito](https://sotf-mods.com/mods/tempbito/autohidesonshotbar)
