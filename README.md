@@ -10,29 +10,21 @@ The difference to version 1.0 is the RedLoader and RedNodeEditor.
 Sons-of-the-Forest-Modpack-2.0 - Survival Mode was developed specifically for survival mode.
 Hardcore and Creative will follow.
 
-There three big updates in this mod pack.
+## There three big updates in this mod pack:
 
 1. Simple and editable option to resetting killed/died Kelvin and Virginia
 2. You can now save, load and share buildings with other players.
 3. A tank, airplane and other surprises make the game even more interesting.
 
-Compatibility version: latest
+**Compatibility version: latest**
 
-Modlist:
 Not all mods are supported by creators or publisher!
 
-
-Mods list:
-
-[Spazial Thanks](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki#many-thanks-to-all-creators)
+## **[Spazial Thanks](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki#many-thanks-to-all-creators)**
 
 
-Extras - This is a part to create and edit mods
+# Extras - This is a part to create your own mods:
 
 Instructions about mods and creating your own read the [Wiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki)
 
-Good luck better play SOTF
-
-Futures:
-
-- comming soon (fast)
+Good luck and have fun 
