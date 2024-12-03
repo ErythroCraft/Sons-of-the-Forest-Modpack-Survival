@@ -1,6 +1,5 @@
 # Sons Of The Forest ModPack 2.0
-Best mods in one pack without modloader installation
-(Direct Installation)
+Best mods in one pack without modloader installation (Direct Installation)
 
 Please keep in mind!
 The modpack "Sons of the Forest 1.0" is current and also playable in the new version. 
