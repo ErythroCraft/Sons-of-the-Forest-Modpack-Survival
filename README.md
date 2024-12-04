@@ -9,11 +9,12 @@ The difference to version 1.0 is the RedLoader and RedNodeEditor.
 Sons-of-the-Forest-Modpack-2.0 - Survival Mode was developed specifically for survival mode.
 Hardcore and Creative will follow.
 
-## There three big updates in this mod pack:
+## There four big updates in this mod pack:
 
 1. Simple and editable option to resetting killed/died Kelvin and Virginia
 2. You can now save, load and share buildings with other players.
 3. A tank, airplane and other surprises make the game even more interesting.
+4. Creating mods by your self
 
 **Compatibility version: latest**
 
