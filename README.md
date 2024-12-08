@@ -7,8 +7,8 @@ Sons-of-the-Forest-Modpack-Survival is one of three new editions and not compati
 The difference is using the RedLoader and RedNodeEditor instead of BepInEx.
 
 Sons-of-the-Forest-Modpack-Survival: 
- - Mode developed specifically for survival mode.
- - 
+ - Specially designed for survival mode.
+   
 ## There five big updates in this mod pack:
 
 1. Simple and editable option to resetting killed/died Kelvin and Virginia by setup keys.
