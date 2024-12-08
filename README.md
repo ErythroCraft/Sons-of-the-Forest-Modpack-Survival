@@ -31,7 +31,7 @@ Futured projects:
 Not all mods are supported by creators or publisher and I must upgrading and fixing bugs by my self!
 This can take a lot of time.
 
-## **[Spazial Thanks](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki#many-thanks-to-all-creators)**
+## **[Special Thank](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki/Special-Thank)**
 
 # Extras - This is a part to create your own mods:
 
