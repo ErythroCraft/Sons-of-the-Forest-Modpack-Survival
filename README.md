@@ -1,4 +1,4 @@
-# Sons Of The Forest ModPack 2.0
+# Sons Of The Forest ModPack Survival
 Best mods in one pack without modloader installation (Direct Installation)
 
 Please keep in mind!
@@ -17,24 +17,26 @@ Sons-of-the-Forest-Modpack-Survival:
 4. An airplane and other surprises make the game even more interesting.
 5. Creating mods by your self. (requered software)
 
-Future versions:
+Future Packs:
  - Sons-of-the-Forest-Modpack-Hardcore
  - Sons-of-the-Forest-Modpack-Creative
 
 Futured projects:
- - A Modbridge and mixins between RedLoader and BepInEx.
- - Managing carry amount of stones and logs.
- - Building Warp mod
+ - BebInEx-Redloader-Modbrige
+ - ManageCarry
+ - BetterWarps
+ - BetterFarmiing
 
 **Compatibility version: latest**
 
-Not all mods are supported by creators or publisher and I must upgrading and fixing bugs by my self!
-This can take a lot of time.
+v.2.1.0 work fine and it's playable now.
+
+From time to time I recreate all mods by my self, because modcreator don't want work for updates.
 
 ## **[Special Thank](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki/Special-Thank)**
 
-# Extras - This is a part to create your own mods:
+# Extras - Is one part to create your own mod simply:
 
-Instructions about mods and creating your own read the [Wiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki)
+Instructions and list you can find on [Wiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki) pages.
 
-Good luck and have fun 
+Good luck and have fun.
