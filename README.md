@@ -25,7 +25,7 @@ Futured projects:
  - BebInEx-Redloader-Modbrige
  - ManageCarry
  - BetterWarps
- - BetterFarmiing
+ - BetterFarming
 
 **Compatibility version: latest**
 
