@@ -1,8 +1,8 @@
 # OUTDATED - WAITING FOR REDLOADER UPDATE - PLEASE TRY AGAIN LATER
 
 For those who can't wait, here is a SOTF downgrader to roll the game back to an older version.
-[SOTFDowngrader.zip](https://cdn.discordapp.com/attachments/1156622262309486673/1330487747554709524/SOTFDowngrader.zip?ex=6790cbc6&is=678f7a46&hm=44aad013d7cead6ac4bc799c5c65d4cd28c70cd16b10f4983b514d63987890d8&)
-Very helpful for map updates
+
+Downloadable here: [SOTFDowngrader.zip](https://cdn.discordapp.com/attachments/1156622262309486673/1330487747554709524/SOTFDowngrader.zip?ex=6790cbc6&is=678f7a46&hm=44aad013d7cead6ac4bc799c5c65d4cd28c70cd16b10f4983b514d63987890d8&) Very helpful for map updates
 
 # Sons Of The Forest ModPack Survival
 Best mods in one pack without modloader installation (Direct Installation)
