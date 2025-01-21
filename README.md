@@ -1,3 +1,6 @@
+# OUTDATED - WAITING FOR REDLOADER UPDATE - PLEASE TRY AGAIN LATER
+
+
 # Sons Of The Forest ModPack Survival
 Best mods in one pack without modloader installation (Direct Installation)
 
