@@ -36,7 +36,8 @@ Instructions and list you can find on [Wiki](https://github.com/ErythroCraft/Son
 
 
     Please keep in mind!
-    The modpack ["SonsoftheForestModpack-BepInEx"](https://github.com/ErythroCraft/SonsoftheForestModpack-BepInEx) is current and also playable in the new version. 
+    The modpack ["SonsoftheForestModpack-BepInEx"](https://github.com/ErythroCraft/SonsoftheForestModpack-BepInEx) 
+    is current and also playable in the new version. 
     Sons-of-the-Forest-Modpack-Survival is one of three new editions and not compatible with BepInEx yet. 
     The difference is using the RedLoader and RedNodeEditor instead of BepInEx.
 
