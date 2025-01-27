@@ -32,8 +32,8 @@ Sons-of-the-Forest-Modpack-Survival:
 20. Hot key commands
 21. Extended rope bridge and zip-liner
 22. Editable auto save
-23. build in caves
-24. Equip/unequip autmaticaly rebreather when swimming
+23. Build in caves
+24. Equip/unequip automaticaly rebreather when swimming
 25. With "DeepSleeper" you sleep how ofen you want
 26. In-Inventory fix with mouse wheel you can rotate stacked item you cannot see. (Never eat rotten flesh)
 27. Kelvin no longer takes a break until tasks are completed. ("Getting bases" is the best option.)
