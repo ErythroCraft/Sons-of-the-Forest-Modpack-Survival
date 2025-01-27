@@ -1,4 +1,4 @@
-# Sons Of The Forest ModPack Survival
+# Sons Of The Forest ModPack - Survival
 Best mods in one pack without modloader installation (Direct Installation)
 
 Please keep in mind!
