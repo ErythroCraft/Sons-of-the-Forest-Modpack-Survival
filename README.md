@@ -22,7 +22,7 @@ Sons-of-the-Forest-Modpack-Survival:
 13. Editable autofilling shelfs
 14. Tree Regrow editor
 15. Vegetation Customizer
-16. Carrying more than 2 logs or 4 stones. (Please do not edit moe than 10 logs or 16 Stones).
+16. Carrying more than 2 logs or 4 stones. (Please do not edit more than 10 logs or 16 Stones).
 17. Warps (only create with command but with warp gui - yet)
 18. Enemy tracker will show you enemies at map.
 19. editable loot and raid controler
