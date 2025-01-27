@@ -5,7 +5,8 @@ Sons-of-the-Forest-Modpack-Survival:
  - Specially designed for survival mode.
  - Please watch out the [WIKI-Page](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki) || Fixed: 80%
 
-## Simple install: Extract modfiles in your game installation folder ...\Steam\steamapps\common\Sons Of The Forest\[mod file here]
+**Simple install:** 
+**- Extract modfiles in your game installation folder ...\Steam\steamapps\common\Sons Of The Forest\[mod file here]**
    
 ## There many big updates in this mod pack:
 
