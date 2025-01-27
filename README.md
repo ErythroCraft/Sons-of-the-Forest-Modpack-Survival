@@ -3,7 +3,7 @@ Best mods in one pack without modloader installation (Direct Installation)
 
 Sons-of-the-Forest-Modpack-Survival: 
  - Specially designed for survival mode.
- - Please watch out the [WIKI-Page](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki)
+ - Please watch out the [WIKI-Page](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki) || Fixed: 80%
    
 ## There five big updates in this mod pack:
 
