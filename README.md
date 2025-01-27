@@ -1,11 +1,6 @@
 # Sons Of The Forest ModPack - Survival
 Best mods in one pack without modloader installation (Direct Installation)
 
-Please keep in mind!
-The modpack ["SonsoftheForestModpack-BepInEx"](https://github.com/ErythroCraft/SonsoftheForestModpack-BepInEx) is current and also playable in the new version. 
-Sons-of-the-Forest-Modpack-Survival is one of three new editions and not compatible with BepInEx yet. 
-The difference is using the RedLoader and RedNodeEditor instead of BepInEx.
-
 Sons-of-the-Forest-Modpack-Survival: 
  - Specially designed for survival mode.
    
@@ -38,5 +33,12 @@ From time to time I recreate all mods by my self, because modcreator don't want 
 # Extras - Is one part to create your own mod simply:
 
 Instructions and list you can find on [Wiki](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-2.0/wiki) pages.
+
+
+    Please keep in mind!
+    The modpack ["SonsoftheForestModpack-BepInEx"](https://github.com/ErythroCraft/SonsoftheForestModpack-BepInEx) is current and also playable in the new version. 
+    Sons-of-the-Forest-Modpack-Survival is one of three new editions and not compatible with BepInEx yet. 
+    The difference is using the RedLoader and RedNodeEditor instead of BepInEx.
+
 
 Good luck and have fun.
