@@ -18,14 +18,14 @@ Sons-of-the-Forest-Modpack-Survival:
 5. Creating mods by your self. (requered software)
 
 Future Packs:
- - Sons-of-the-Forest-Modpack-Hardcore
- - Sons-of-the-Forest-Modpack-Creative
+ - Sons-of-the-Forest-Modpack-Hardcore | ⏳
+ - Sons-of-the-Forest-Modpack-Creative | ⏳
 
 Futured projects:
- - BebInEx-Redloader-Modbrige |
+ - BebInEx-Redloader-Modbrige | ⏳
  - ManageCarry                | ✅ 
  - BetterWarps                | ✅ 
- - BetterFarming              |
+ - BetterFarming              | ⏳
 
 **Compatibility version: latest**
 
