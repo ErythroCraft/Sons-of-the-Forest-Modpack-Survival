@@ -48,7 +48,7 @@ Futured projects:
 
 **Compatibility version: latest**
 
-v.2.1.0 work fine and it's playable now.
+v.3.0.0 work fine and it's playable now.
 
 From time to time I recreate all mods by my self, because modcreator don't want work for updates.
 
