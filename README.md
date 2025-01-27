@@ -5,13 +5,36 @@ Sons-of-the-Forest-Modpack-Survival:
  - Specially designed for survival mode.
  - Please watch out the [WIKI-Page](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki) || Fixed: 80%
    
-## There five big updates in this mod pack:
+## There many big updates in this mod pack:
 
 1. Simple and editable option to resetting killed/died Kelvin and Virginia by setup keys.
 2. You can now save, load and share buildings/blueprints with other players.
 3. Chat-GBT for Kelvin.
-4. An airplane and other surprises make the game even more interesting.
+4. An airplane, helicopter and other surprises make the game even more interesting.
 5. Creating mods by your self. (requered software)
+6. Editable waterfall volume.
+7. Placeable Signs with custom texts.
+8. Editable light colors.
+9. Hotbar (Key H)
+10. Golf carts can transport objects.
+11. Ammo UI
+12. Fire nearby water collector will smelt ice
+13. Editable autofilling shelfs
+14. Tree Regrow editor
+15. Vegetation Customizer
+16. Carrying more than 2 logs or 4 stones. (Please do not edit moe than 10 logs or 16 Stones).
+17. Warps (only create with command but with warp gui - yet)
+18. Enemy tracker will show you enemies at map.
+19. editable loot and raid controler
+20. Hot key commands
+21. Extended rope bridge and zip-liner
+22. Editable auto save
+23. build in caves
+24. Equip/unequip autmaticaly rebreather when swimming
+25. With "DeepSleeper" you sleep how ofen you want
+26. In-Inventory fix with mouse wheel you can rotate stacked item you cannot see. (Never eat rotten flesh)
+27. Kelvin no longer takes a break until tasks are completed. ("Getting bases" is the best option.)
+28. And many many more 
 
 Future Packs:
  - Sons-of-the-Forest-Modpack-Hardcore | ⏳
