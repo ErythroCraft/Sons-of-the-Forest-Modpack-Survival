@@ -22,10 +22,10 @@ Future Packs:
  - Sons-of-the-Forest-Modpack-Creative
 
 Futured projects:
- - BebInEx-Redloader-Modbrige
- - ManageCarry
- - BetterWarps
- - BetterFarming
+ - BebInEx-Redloader-Modbrige |
+ - ManageCarry                | ✅ 
+ - BetterWarps                | ✅ 
+ - BetterFarming              |
 
 **Compatibility version: latest**
 
