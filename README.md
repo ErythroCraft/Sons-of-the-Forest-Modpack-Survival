@@ -2,7 +2,8 @@
 Best mods in one pack without modloader installation (Direct Installation)
 
 Sons-of-the-Forest-Modpack-Survival: 
- - Specially designed for survival mode.
+ - Specially designed for Gronkh.
+ - repositorry only exist about updates.
  - Please watch out the [WIKI-Page](https://github.com/ErythroCraft/Sons-of-the-Forest-Modpack-Survival/wiki) || Fixed: 80%
 
 **Simple install:** 
