@@ -72,4 +72,4 @@ Instructions and list you can find on [Wiki](https://github.com/ErythroCraft/Son
 
 Good luck and have fun.
 
-[![buy me a ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T71AXXWZ)
+[![buy me an ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T71AXXWZ)
