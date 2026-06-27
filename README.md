@@ -73,7 +73,6 @@ The difference is using the RedLoader and RedNodeEditor instead of BepInEx.
 
 Good luck and have fun.
 
-[![buy me an ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T71AXXWZ)
 
 
 
